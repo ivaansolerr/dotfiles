@@ -1,0 +1,3 @@
+xss-lock -- betterlockscreen -l &
+feh --bg-scale Desktop/wallpapers/wallp2.jpg &
+python ~/.mythings/polybarScript.py &
